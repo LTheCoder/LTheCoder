@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LTheCoder, my name is Levi
-- 👀 I’m interested in learning and developing to the best programmer i can be.
-- 🌱 I’m currently learning computer sciense and full stack devlopment.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: email: levifichman@gmail.com
+- 👀 I’m interested in learning and developing to be the best programmer.
+- 🌱 I’m currently learning computer science and full stack development.
 
 <!---
 LTheCoder/LTheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
